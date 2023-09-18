@@ -10,3 +10,6 @@ El evaluador permite ingresar la expresion metematica separando cada caracter ya
 - Codigo adaptable a futuras expresiones
 - Mantiene un conteo de las variables ingresadas
 - Sensillo y facil de entender
+
+### Funcionamiento
+[![image.png](https://i.postimg.cc/ZqDqLH2p/image.png)](https://postimg.cc/CZkYhGFx)
